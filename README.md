@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Gresh! I'm a college student in my final year studying computer science at the University of Minnesota - Twin Cities!
+Hey, I'm Gresh! I'm a college student in my final year studying of computer science at the University of Minnesota - Twin Cities!
 
 Check out my StrawBotSnippets repo to get a feel for my main project! https://github.com/greshbasic/StrawBotSnippets
 
