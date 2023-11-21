@@ -1,5 +1,5 @@
 # 💫 About Me:
-Previous Neuroscience major turned Computer Science Major
+In my final year of a B.S. in Computer Science at the University of Minnesota - Twin Cities!
 
 
 ## 🌐 Socials:
