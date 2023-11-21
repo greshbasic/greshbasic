@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hey, I'm Gresh! I'm a college student in my final year of a B.S. in Computer Science at the University of Minnesota - Twin Cities!
 
+Check out my StrawBotSnippets repo to get a feel for my main project! https://github.com/greshbasic/StrawBotSnippets
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gresh-basic-2b3b39208/) 
 
