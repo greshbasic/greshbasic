@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey, I'm Gresh, a recent graduate from the University of Minnesota Twin Cities.<br><br>Check out my StrawBotSnippets repo to get a feel for my main project! https://github.com/greshbasic/StrawBotSnippets<br><br>(PFP is a gel electrophoresis of the final sample of a culture of E. Coli I cultivated over dozens of generations in my experimental evolution lab work)
 
-# Work Experience:
+# 💻 Work Experience:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 💻 Personal Stack:
