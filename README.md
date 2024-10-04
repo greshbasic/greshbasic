@@ -16,6 +16,4 @@ Hey, I'm Gresh, a recent graduate from the University of Minnesota Twin Cities.<
 <h2> GitHub Stats: </h2>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=greshbasic&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=greshbasic&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
