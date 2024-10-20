@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey, I'm Gresh, a recent graduate from the University of Minnesota Twin Cities with a degree in ~~Neuroscience~~ Computer Science.<br><br>(PFP is a gel electrophoresis of the final sample of a culture of E. Coli I cultivated over dozens of generations in my experimental evolution lab work)
 
 <h2> Work Experience: </h2>
