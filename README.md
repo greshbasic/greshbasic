@@ -1,1 +1,24 @@
-Hey, I'm Gresh, a graduate from the University of Minnesota Twin Cities with a degree in ~~Neuroscience~~ Computer Science. I'm passionate about data science, machine learning, and healthcare! (oh and Eiichiro Oda's One Piece)
+```
+{
+  "name": "Gresh",
+  "education": {
+    "university": "University of Minnesota Twin Cities",
+    "degrees": [
+      {
+        "title": "Neuroscience",
+        "timeframe": "2019-2022" # changed majors in 2022
+      },
+      {
+        "title": "Computer Science",
+        "timeframe": "2022-2024"
+      }
+    ]
+  },
+  "interests": [
+    "data science",
+    "machine learning",
+    "healthcare",
+    "One Piece"
+  ]
+}
+```
