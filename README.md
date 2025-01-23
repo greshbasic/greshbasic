@@ -6,7 +6,7 @@
     "degrees": [
       {
         "degree": "Neuroscience",
-        "timeframe": "2019-2022" # changed majors in 2022
+        "timeframe": "2019-2022"
         "note": "Changed majors in 2022"
       },
       {
