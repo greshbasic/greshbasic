@@ -19,7 +19,7 @@
     "data science",
     "machine learning",
     "healthcare",
-    "One Piece"
+    "one piece"
   ]
 }
 ```
